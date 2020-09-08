@@ -2,8 +2,6 @@
 
 ## How to install
 
-You must install these dependent libraries.
-
 **OpenGL**
 ```
 $ sudo apt install libglu1-mesa-dev
